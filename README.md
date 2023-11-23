@@ -15,7 +15,7 @@ This is a simple Spring MVC project for managing a list of people. It includes b
 **3. Open your browser and visit http://localhost:8080/people to access the application.**  
 
 
-Dependencies  
+**Dependencies:**  
 Spring Boot  
 Thymeleaf  
 PostgreSQL **(You need to have a PostgreSQL database set up with the appropriate configurations in application.properties)**  
