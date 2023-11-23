@@ -8,9 +8,12 @@
 
 **1. Build the project:**  
    'mvn clean install'  
+
 **2. Run the project:**  
   'mvn spring-boot:run'  
+
 **3. Open your browser and visit http://localhost:8080/people to access the application.**  
+
 
 Dependencies
 Spring Boot
