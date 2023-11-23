@@ -1,16 +1,17 @@
-# spring-mvc-crud-example
+#  spring-mvc-crud-example
 
-# Spring MVC Project
+#  Spring MVC Project
 
 This is a simple Spring MVC project for managing a list of people. It includes basic CRUD operations (Create, Read, Update, Delete) and uses Thymeleaf as the templating engine.
 
 **First of all ou need to clone the repository, after that:**
 
 **1. Build the project:**  
-   'mvn clean install'  
+   '''bash
+   mvn clean install  
 
 **2. Run the project:**  
-  'mvn spring-boot:run'  
+  mvn spring-boot:run  
 
 **3. Open your browser and visit http://localhost:8080/people to access the application.**  
 
