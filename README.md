@@ -7,7 +7,6 @@ This is a simple Spring MVC project for managing a list of people. It includes b
 **First of all ou need to clone the repository, after that:**
 
 **1. Build the project:**  
-   '''bash
    mvn clean install  
 
 **2. Run the project:**  
